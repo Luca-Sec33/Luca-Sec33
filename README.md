@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I am Amir Hossein. I am passionate about GitHub and bug bounty programs. I am still in the process of learning, and I try to share useful information with you.
-
+سلام من امیرحسین هستم و اینجا گیت هاب منه از گیت هاب خوشم میاد خودم درحال یادگیری هستم عاشق باگ بانتی هستم سعی میکنم مظالب مفیدی رو با شما به اشتراک بذارم
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/luca_wq33) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@LucaWq33) 
